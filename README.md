@@ -7,12 +7,6 @@ Kaggle Competition, Regression.
 
 ### ⚜️ Domain:
 Real State, House Prices.
-
-### 🕹️ Skills:
-- Machine Learning,
-- Data Preprocessing,
-- Feature Engineering,
-- Data Visualization.
 ​
 ### 💻 Technologies:
 - Python (Kaggle Notebook):
@@ -21,6 +15,14 @@ Real State, House Prices.
     - sklearn,
     - matplotlib,
     - seaborn.
+
+### 🕹️ Skills:
+- Machine Learning,
+- Data Preprocessing,
+- Feature Engineering,
+- Data Visualization.
+
+---
 
 🏘️ Worked with the **Kaggle competition** "[House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)" where I **predicted** the sale price of 1459 houses using a dataset of 1460 houses with 79 features using 🐍 **Python**.​
 
