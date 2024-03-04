@@ -6,7 +6,7 @@ Check this project on [my website](https://aadsm2355.wixsite.com/andryadsm/predi
 Kaggle Competition, Regression.
 
 ### ⚜️ Domain
-Real State, House Prices.
+Real Estate, House Prices.
 ​
 ### 💻 Technologies
 - Python (Kaggle Notebook)
