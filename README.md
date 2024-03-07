@@ -25,7 +25,7 @@ Real Estate, House Prices.
 
 ---
 
-🏘️ Worked on the Kaggle competition "House Prices - Advanced Regression Techniques" where I successfully predicted the sale price of 1459 houses from a dataset of 1460 records of 79 features using 🐍 Python.
+🏘️ Worked on the Kaggle competition "[House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)" where I successfully predicted the sale price of 1459 houses from a dataset of 1460 records of 79 features using 🐍 Python.
 
 🔎 Performed Exploratory Data Analysis (EDA), looking deep for missing values, distributions, counts, correlations and more with a lot of use of pandas, matplotlib and seaborn.
 
