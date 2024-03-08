@@ -3,7 +3,7 @@
 Check this project on [my website](https://aadsm2355.wixsite.com/andryadsm/predicting-house-prices)!
 
 ## File
-You can get the code (.ipynb) and output files in Kaggle, note that they wil work well only inside Kaggle.
+You can get the code (.ipynb) and output files in Kaggle, note that they will work well only inside Kaggle.
 
 ### 📌 Type
 Kaggle Competition, Regression.
