@@ -2,7 +2,7 @@
 
 🌐 Check this project on [my website](https://aadsm2355.wixsite.com/andryadsm/predicting-house-prices)!
 
-## File
+## Files
 - 'house-prices-with-feature-analyzer.ipynb' is the Python Notebook where all the work was done. Works well only inside Kaggle.
 - 'submission.csv' is the final output that is submitted to the Kaggle Competition
 
