@@ -3,7 +3,12 @@
 🌐 Check this project on [my website](https://aadsm2355.wixsite.com/andryadsm/predicting-house-prices)!
 
 ## File
-You can get the code (.ipynb) and output files in Kaggle, note that they will work well only inside Kaggle.
+- 'house-prices-with-feature-analyzer.ipynb' is the Python Notebook where all the work was done. Works well only inside Kaggle.
+- 'submission.csv' is the final output that is submitted to the Kaggle Competition
+
+You can also get the code (.ipynb) and output files in Kaggle. Note that they will work well only inside Kaggle.
+
+---
 
 ### 📌 Type
 Kaggle Competition, Regression.
@@ -41,5 +46,7 @@ Real Estate, House Prices.
 🧾 Evaluated performance with a custom scorer, RMSLE (root-mean-squared-log-error), and got 0.12236, which is as high as top 10% of competitors 🏆.
 
 [Go to Kaggle](https://www.kaggle.com/code/andrydasilva/house-prices-with-feature-analyzer)
+
+![p1_numr](https://github.com/AndryADSM/Predicting-House-Prices/assets/150280431/62ba6a86-267c-4a04-bc4c-05f78b130255)
 
 ---
