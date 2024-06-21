@@ -45,7 +45,11 @@ Real Estate, House Prices.
 
 🧾 Evaluated performance with a custom scorer, RMSLE (root-mean-squared-log-error), and got 0.12236, which is as high as top 10% of competitors 🏆.
 
+---
+
 [Go to Kaggle](https://www.kaggle.com/code/andrydasilva/house-prices-with-feature-analyzer)
+
+---
 
 ![p1_numr](https://github.com/AndryADSM/Predicting-House-Prices/assets/150280431/62ba6a86-267c-4a04-bc4c-05f78b130255)
 
