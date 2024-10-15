@@ -2,6 +2,8 @@
 
 🌐 Check this project on [my website](https://aadsm2355.wixsite.com/andryadsm/predicting-house-prices)!
 
+Go to [Kaggle](https://www.kaggle.com/code/andrydasilva/house-prices-with-feature-analyzer).
+
 ## Files
 - 'house-prices-with-feature-analyzer.ipynb' is the Python Notebook where all the work was done. Works well only inside Kaggle.
 - 'submission.csv' is the final output that is submitted to the Kaggle Competition
@@ -44,10 +46,6 @@ Real Estate, House Prices.
 🤖 Tested different models, including several from sklearn, like RandomForestRegressor and GradientBoostingRegressor optimizing with GridSearchCV, concluded with CatBoostRegressor as the best model.
 
 🧾 Evaluated performance with a custom scorer, RMSLE (root-mean-squared-log-error), and got 0.12236, which is as high as top 10% of competitors 🏆.
-
----
-
-[Go to Kaggle](https://www.kaggle.com/code/andrydasilva/house-prices-with-feature-analyzer)
 
 ---
 
